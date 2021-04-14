@@ -1,0 +1,23 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "command line game for two players",
+  "main": "tictactoe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node tictactoe.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kc127/tic-tac-toe.git"
+  },
+  "author": "Kanchan Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kc127/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/kc127/tic-tac-toe#readme",
+  "dependencies": {
+    "prompt": "^1.1.0"
+  }
+}
