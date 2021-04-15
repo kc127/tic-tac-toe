@@ -5,7 +5,7 @@
 
 Once you clone the repo, run the following commands from the root directory :
 - npm install
-- node tictactoe.js
+- node tictactoe/index.js
 
 Players 'X' and 'O' take turn entering a number between 1-9 on the command line.
 
@@ -18,7 +18,7 @@ Players 'X' and 'O' take turn entering a number between 1-9 on the command line.
 
 ```
 
-When a player makes a winning combination, a congratulatory message is displayed in the command line informing the player of their win and then the game ends.
+When a player makes a winning combination, a congratulatory message is displayed on the command line informing the player of their win and then the game ends.
 
 ```
 X | X | X
