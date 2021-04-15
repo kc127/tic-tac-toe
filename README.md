@@ -26,7 +26,7 @@ X | X | X
   |   |
 - + - + -
 O |   | O
-[ 1, 2, 3 ] [ 7, 9 ]
+
 Congratulations! Player X You won!
 
 ```
