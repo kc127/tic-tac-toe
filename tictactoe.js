@@ -45,7 +45,7 @@ const playGame = (player) => {
     const playerPosition = playerXPositions.length === 3 ? playerXPositions : playerOPositions.length === 3 ? playerOPositions : null ;
 
     if (playerPosition && checkWinner(playerPosition) === true) {
-      console.log('Congratulations! You won!')
+      console.log(`Congratulations! Player ${player} You won!`)
       return;
     }
     if (player === 'X') {
