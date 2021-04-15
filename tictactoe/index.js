@@ -40,7 +40,6 @@ const playGame = (player) => {
     } else {
       playerOPositions.push(parseInt(num));
     }
-    console.log(playerXPositions, playerOPositions);
 
     const playerPosition = playerXPositions.length === 3 ? playerXPositions : playerOPositions.length === 3 ? playerOPositions : null ;
 
